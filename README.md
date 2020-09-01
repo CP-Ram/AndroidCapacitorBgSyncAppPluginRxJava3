@@ -1,0 +1,1 @@
+# AndroidCapacitorBgSyncAppPluginRxJava3
